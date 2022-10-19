@@ -1,0 +1,6 @@
+- 🔭Looking for new opportunities connected to Programming or Data Analysis
+- 🌱 I’m currently learning Machine Learning and Big Data
+- 👨🏻‍💻Master of Science: Computer Science with a Major in Cybersecurity, Data Analytics and Artificial Intelligence 
+- 🛠️  Coding in Python
+- 📫   Feel free to ping me on www.linkedin.com/in/roksana-a-brzoska
+- 🔥challenge: "I am doing the #100DaysOfCode challenge focused on Python"
